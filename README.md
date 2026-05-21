@@ -1,7 +1,8 @@
 # Hi there, I'm Ruhi Hooda 👋
 
 <p align="center">
-  <img src="https://tenor.com/hUJoYr3oyZB.gif" width="700" alt="Coding GIF"/>
+  <img src="https://tenor.com/view/work-internet-computer-working-penguin-gif-6505495604908631093
+    " width="700" alt="Coding GIF"/>
 </p>
 
 <h3 align="center">
