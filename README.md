@@ -1,7 +1,7 @@
 # Hi there, I'm Ruhi Hooda 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXhqbmtxc3QwcWVjZnhxMmU2OWlnNjR0ZXk5NHhlcXcydGdvbGRxciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
     " width="700" alt="Coding GIF"/>
 </p>
 
